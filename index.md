@@ -1,8 +1,8 @@
 ---
 title: SIAM
 feature_text: |
-  ## SIAM Student Chapter
-  Website for SIAM student chapter at Stony Brook University.
+  ## Society of Industrial and Applied Mathematics
+  SIAM Student Chapter at Stony Brook University.
 feature_image: "https://picsum.photos/seed/picsum/1300/400"
 excerpt: "Interdisciplinary participation of students and faculty from a variety of departments provides invaluable opportunities to develop networks with faculty members outside of the classroom, share ideas and research with people with similar interests, learn about career options, and develop leadership skills."
 ---
