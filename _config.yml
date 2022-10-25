@@ -66,13 +66,13 @@ collections:
     title: Student Chapter Members of SIAM @ Stony Brook # Needed for Siteleaf
     output: true
     feature_text: Student Chapter Members of SIAM @ Stony Brook 
-    feature_image: "assets/logos/new_siam_logo.png"
+    feature_image: "/assets/logos/new_siam_logo.png"
 
 # 6. Jekyll collections settings
 defaults:
   -
     scope:
-      path: "assets/logos/new_siam_logo.png"
+      path: "/assets/logos/new_siam_logo.png"
     values:
       image: "" # Default image for sharing
   -
@@ -108,14 +108,14 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: 'assets/logos/new_siam_logo.png'
-  32: 'assets/logos/new_siam_logo.png'
-  96: 'assets/logos/new_siam_logo.png'
-  120: 'assets/logos/new_siam_logo.png'
-  144: 'assets/logos/new_siam_logo.png'
-  180: 'assets/logos/new_siam_logo.png'
-  512: 'assets/logos/new_siam_logo.png'
-  1024: 'assets/logos/new_siam_logo.png'
+  16: '/assets/logos/new_siam_logo.png'
+  32: '/assets/logos/new_siam_logo.png'
+  96: '/assets/logos/new_siam_logo.png'
+  120: '/assets/logos/new_siam_logo.png'
+  144: '/assets/logos/new_siam_logo.png'
+  180: '/assets/logos/new_siam_logo.png'
+  512: '/assets/logos/new_siam_logo.png'
+  1024: '/assets/logos/new_siam_logo.png'
 
 # 9. Site navigation
 navigation_header:
