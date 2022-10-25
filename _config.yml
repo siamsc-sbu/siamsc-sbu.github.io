@@ -123,12 +123,14 @@ navigation_header:
   url: /
 - title: About Us
   url: /aboutus/
+- title: Events
+  url: /events/
 - title: Members
   url: /members/
+- title: Materials
+  url: /materials/
 - title: Join Us
   url: /joinus/
-- title: Contact
-  url: /contact/
 # - title: Fork Alembic
 #   url: https://github.com/daviddarnes/alembic
 
