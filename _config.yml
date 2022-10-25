@@ -72,9 +72,9 @@ collections:
 defaults:
   -
     scope:
-      path: ""
+      path: "assets/logos/new_siam_logo.png"
     values:
-      image: "assets/logos/new_siam_logo.png" # Default image for sharing
+      image: "" # Default image for sharing
   -
     scope:
       path: ""
