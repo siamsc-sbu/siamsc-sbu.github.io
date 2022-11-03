@@ -26,7 +26,7 @@ title: Current Board Members
 
 <sub><sup>I’m Zheming a 3rd year PhD student in the OR track. I am interested in optimal transport, machine learning and geometry problems. I like to do sports, especially soccer and basketball.<sub><sup>
 
-
+<img align="center" src="/assets/zheming.jpg" width="400" height="400" />
 
 
 **Technical Lead: Jason Bohne**
