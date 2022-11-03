@@ -39,6 +39,8 @@ title: Current Board Members
 <img align="center" src="/assets/jason.jpg" width="400" height="400" />
 
 
+
+
 **Secretary: Lydia Wang**
 
 
@@ -46,3 +48,8 @@ title: Current Board Members
 
 <img align="center" src="/assets/lydia.png" width="400" height="400" />
 
+**Social Media Manager: Jenny Chen**
+
+I am Jenny, a undergraduate student majoring in Applied math and statistics. I am interest in pursue career in data science in the future. Outside of school, I  like hiking and play guitar.
+
+<img align="center" src="/assets/jenny.png" width="400" height="400" />
