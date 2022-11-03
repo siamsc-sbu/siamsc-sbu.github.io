@@ -35,7 +35,7 @@ I’m Zheming a 3rd year PhD student in the OR track. I am interested in optimal
 
 I’m Jason a 2nd year Ph.D. student within the quantitative finance track. My research broadly  focuses on statistical learning, nonparametric methods and optimization with financial applications. Outside of university I enjoy running, traveling , and trading.
 
-![text](/assets/jason.jpg){ width: 200px; height: 100px  }
+<img src="/assets/jason.jpg" width="200" height="200" />
 
 **Lydia Wang**
 
