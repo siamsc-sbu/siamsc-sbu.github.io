@@ -92,7 +92,7 @@ defaults:
 encoding: UTF-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "SIAM" # Site name or title, also used in jekyll-seo-tag
-logo: "assets/logos/new_siam_logo.png" # Site logo, also used in jekyll-seo-tag
+logo: "assets/logos/new_siam_logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "SIAM Student Chapter at Stony Brook University" # Site description and default description, also used in jekyll-seo-tag
 url: "https://www.stonybrook.edu/commcms/ams/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
