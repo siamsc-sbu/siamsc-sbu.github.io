@@ -1,5 +1,7 @@
 ---
 title: Current Board Members
+
+aside: true
 ---
 
 **President: Nilesh Chaturvedi**
