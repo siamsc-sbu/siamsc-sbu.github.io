@@ -42,7 +42,7 @@ I’m Jason a 2nd year Ph.D. student within the quantitative finance track. My r
 **Secretary: Lydia Wang**
 
 
-Hi everyone! I am the Secretary of Stony Brook University’s SIAM student chapter, and I am a first year undergraduate student studying Applied Math and Stats. Although I haven’t had the chance to do research as an undergraduate yet, I have done research at Stony Brook’s Garcia Summer Program that dealt with computational biology! I've also pursued my interests with math through volunteering at the National Museum of Mathematics in NYC. Outside of school, I enjoy playing the guitar and piano, and badminton with friends.
+Hi everyone! I am the Secretary of Stony Brook University’s SIAM student chapter, and I am a first year undergraduate student studying Applied Math and Stats. Although I haven’t had the chance to do research as an undergraduate yet, I have done research at Stony Brook’s Garcia Summer Program that dealt with computational biology! I've also pursued my interests with math through volunteering at the National Museum of Mathematics in NYC. Outside of school, I enjoy playing the guitar and piano, and badminton with friends
 
 <img align="center" src="/assets/lydia.png" width="400" height="400" />
 
