@@ -1,7 +1,5 @@
 ---
 title: Image Gallery
-
-aside: true
 ---
 
 Pictures of our recent events
