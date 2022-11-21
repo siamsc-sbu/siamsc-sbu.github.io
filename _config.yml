@@ -117,8 +117,8 @@ navigation_header:
   url: /events/
 - title: Members
   url: /members/
-- title: Materials
-  url: /materials/
+- title: Image Gallery
+  url: /imagegallery/
 - title: Join Us
   url: /joinus/
 # - title: Fork Alembic
