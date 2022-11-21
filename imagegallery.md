@@ -2,15 +2,23 @@
 title: Image Gallery
 ---
 
-Pictures of our recent events
+**Robustness of Complex Networks in Biology and Medicine**
 
-<img align="center" src="/assets/event11.jpg" width="400" height="400" />
+<div class="row">
+  <div class="column">
+    <img align="center" src="/assets/event11.jpg" width="400" height="400" />
+  </div>
+  <div class="column">
+    <img align="center" src="/assets/event12.jpg" width="400" height="400" />
+  </div>
+</div>
 
-<img align="center" src="/assets/event12.jpg" width="400" height="400" />
-
-<img align="center" src="/assets/event13.jpg" width="400" height="400" />
-
-<img align="center" src="/assets/event14.jpg" width="400" height="400" />
-
-<img align="center" src="/assets/event15.jpg" width="400" height="400" />
+<div class="row">
+  <div class="column">
+    <img align="center" src="/assets/event14.jpg" width="400" height="400" />
+  </div>
+  <div class="column">
+    <img align="center" src="/assets/event15.jpg" width="400" height="400" />
+  </div>
+</div>
 
