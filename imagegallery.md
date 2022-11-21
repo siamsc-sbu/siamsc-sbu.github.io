@@ -1,8 +1,12 @@
 ---
 title: Image Gallery
----
 
+---
+<link href="style.css" rel="stylesheet">
+<table { border-spacing: 30px;}>
 **Robustness of Complex Networks in Biology and Medicine**
+
+
 
 <table><tr>
 <td> <img align="center" src="/assets/event11.jpg" width="400" height="320" /> &nbsp;</td>
