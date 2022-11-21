@@ -1,5 +1,0 @@
----
-title: Materials
-
-aside: true
----
