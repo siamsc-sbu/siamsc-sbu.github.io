@@ -9,4 +9,4 @@ aside: true
 [Some Link]({% include siam_intro_slides  %})
 
 **SIAM Student Chapter Kick-Off Event  Featuring: IACS Student Association**
-[Siam Intro Slides]({% include siam_intro_slide.pptx  %})
+[Siam Intro Slides]({% include siam_intro_slide.pptx %})
