@@ -3,7 +3,7 @@ title: Image Gallery
 
 ---
 <link href="style.css" rel="stylesheet">
-<table { border-spacing: 30px;}>
+
 **Robustness of Complex Networks in Biology and Medicine**
 
 
