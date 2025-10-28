@@ -4,7 +4,7 @@ title: Current Board Members
 aside: true
 ---
 
-**President: Nilesh Chaturvedi**
+**President: Spiros Manolas**
 
 
  <sub><sup>I am the President and a fourth-year Ph.D. candidate in the Department of Applied Mathematics and Statistics where I conduct research on numerical analysis and scientific computing. I work under the advisement of Prof. Xiangmin Jiao on optimal preconditioning techniques for time-dependent PDEs and discontinuity detection in multiphysics applications. In my free time, I like cycling, playing basketball, and table tennis.<sub><sup>
