@@ -10,7 +10,7 @@ aside: true
  <sub><sup>I joined SIAM because of my desire to create community amongst members of the AMS department at Stony Brook across all academic levels, as well as my desire to provide SBU students interested in Applied Math with a variety of professional development & social activities. I enjoy the AMS & MAT majors because of my passion for learning about math and its applications, and I chose my MEC minor because I am generally interested in research at the intersection of applied math and engineering. My current long-term academic and career goals are to pursue a PhD in Applied & Computational Math / Computational Science and Engineering, followed by a career either in academia, the national labs, or industry R&D. My research interests primarily lie in the development of numerical and computational algorithms to solve problems in the engineering fields. My favorite projects that I've worked on for SIAM so far have been our Undergraduate Research Workshop as well as our upcoming AMS Research Day. Outside of SIAM/academics, I like cooking/baking and am a big foodie!<sub><sup>
 
 
-<img align="center" src="/assets/nilesh.jpg" width="400" height="400" />
+<img align="center" src="/assets/spiros_headshot.png" width="400" height="400" />
 
 
 
