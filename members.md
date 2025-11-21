@@ -11,7 +11,7 @@ aside: true
  <sub><sup>I joined SIAM because of my desire to create community amongst members of the AMS department at Stony Brook across all academic levels, as well as my desire to provide SBU students interested in Applied Math with a variety of professional development & social activities. I enjoy the AMS & MAT majors because of my passion for learning about math and its applications, and I chose my MEC minor because I am generally interested in research at the intersection of applied math and engineering. My current long-term academic and career goals are to pursue a PhD in Applied & Computational Math / Computational Science and Engineering, followed by a career either in academia, the national labs, or industry R&D. My research interests primarily lie in the development of numerical and computational algorithms to solve problems in the engineering fields. My favorite projects that I've worked on for SIAM so far have been our Undergraduate Research Workshop as well as our upcoming AMS Research Day. Outside of SIAM/academics, I like cooking/baking and am a big foodie!<sub><sup>
 
 
-<img align="center" src="/assets/spiros_headshot.png" width="400" height="400" />
+<img align="center" src="/assets/spiros_headshot.png" width="107" height="142" />
 
 
 
@@ -65,17 +65,20 @@ aside: true
 
 **Event Committee: Katia Idrovo**  
 **Year: Senior**
+
 <sub><sup>Hello! My name is Katia and I joined SIAM because I wanted to be more involved within our AMS community at Stony Brook! In my free time I like to sew!<sub><sup>
 
 
 
 **Event Committee: Sofia Castillo**  
 **Year: Sophomore**
+
 <sub><sup>I wanted to join SIAM to be around likeminded individuals with similar mindsets on math and math education. I grew to love math over the years and seeing all of the members come together with this combined interest is truly inspiring. As for my future, I plan on getting a PhD in Astrophysics with a concentration in star evolution. I think having interdisciplinary experience during undergrad is extremely valuable. I get to converse with people who operate differently from me and who encourage me to see different angles of the world. When it comes to research, having these skills early on will help me tackle future research problems from all sides. Outside of school, I love to do pottery as well as listen to music and hangout with my friends!<sub><sup>
 
 
 **Event Committee: Edik Harutyunyan**  
 **Year: Sophomore**
+
 <sub><sup>I joined SIAM to connect with students who share a passion for applied mathematics and to help create engaging events that make math more accessible and exciting. As a Mathematics major, I enjoy exploring how mathematical models can solve real-world problems. Serving as a member of the Event Committee has allowed me to contribute ideas, strengthen teamwork skills, and support our community. Outside academics, I enjoy playing chess, basketball, and analyzing them.<sub><sup>
 
 <img align="center" src="/assets/edik_headshot.jpg" width="400" height="400" />
