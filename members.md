@@ -45,7 +45,7 @@ aside: true
 <sub><sup>.<sub><sup>
 
 
-<img align="center" src="//" width="400" height="400" />
+<img align="center" src="/assets/viviana_headshot.heic" width="400" height="400" />
 
 
 
