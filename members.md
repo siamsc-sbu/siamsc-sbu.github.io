@@ -22,16 +22,16 @@ aside: true
 
 
 
-<img align="center" src="//" width="400" height="400" />
+<img align="center" src="/assets/wendy_headshot.jpeg" width="400" height="400" />
 
 
-**Treasurer: Nandani Goswami**  
+**Treasurer: Nandini Goswami**  
 **Year: Sophomore**
 
 
 <sub><sup>The wide range of opportunities offered by applied math from finance to machine learning made known by SIAM fascinates me and I can't wait to help share it! I chose pure mathematics as my second major because I also enjoy drifting through its elemental beauty and abstraction. For now, I'm torn between the dynamic industry environment and the inquisitive but collaborative world of research. Something fun about me is that I play North Indian classical music on the violin and I speak French! MY favourite project with SIAM is the interactive journal club discussion on a paper on the overlaps between Indian classical music and mathematics.<sub><sup>
 
-<img align="center" src="//" width="400" height="400" />
+<img align="center" src="/assets/nandini_headshot.jpeg" width="400" height="400" />
 
 
 
@@ -54,7 +54,7 @@ aside: true
 
 <sub><sup>Math has been my favourite subject since I began schooling, so I knew that I wanted to study some sort of math in college. I started in only AMS, but found that I wanted to see more proofs rather than just theorems, so I eventually became an MAT major as well. I am greatly enjoying number theory (MAT311) right now, and hope to enter graduate school and become a career mathematician. In my freshman semester, I joined SIAM for its biweekly journal clubs, discussing interesting papers at a level that was accessible for even me with barely any background in applied math. I wanted to be more involved in the planning of the club as well, so when the position of secretary opened up, I ran for it. Outside of academics, my primary hobbies are reading (anything I can get my hands on) and playing piano (primarily pieces from the late Romantic to Modernist periods). <sub><sup>
 
-<img align="center" src="//" width="400" height="400" />
+<img align="center" src="/assets/catherine_headshot.jpg" width="400" height="400" />
 
 **Social Media Manager: Larab Khadim**  
 **Year: Senior**
