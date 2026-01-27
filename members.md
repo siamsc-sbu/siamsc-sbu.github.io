@@ -42,7 +42,7 @@ aside: true
 <sub><sup>I joined SIAM in order to broaden my coding skills in the mathematical field and share them with interested members. Additionally I  enjoy spending time with the rest of the E-board as well as general body members! In my free time, I love listening to music, binge watching shows, and learning to crochet and play guitar. 
 
 
-<sub><sup>.<sub><sup>
+
 
 
 <img align="center" src="/assets/viviana_headshot.jpg" width="400" height="400" />
