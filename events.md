@@ -3,12 +3,15 @@ title: Events
 
 aside: true
 ---
+**Upcoming Events** 
+
+**Multiscale and AI Algorithms talk with Professor Yuefan Deng**
+
+Professor Yuefan Deng of the Applied Mathematics Department gives a talk presenting quick survey of modern computin, tracing its rapid evolution from foundational hardware logic to today's complex software systems and machine learning advances. It explores how computation drives discovery across biology, finance, industrial and applied mathematics, science, and defense, while emphasizing the core logic and principles behind 21st-century innovation.
 
 
-**Robustness of Complex Networks in Biology and Medicine**
 
-Professor Allen Tannenbaum of the Computer Science Department gives a talk on  the robustness of complex networks with biological applications. A full video of the seminar can be found embedded below.
+**SIAM Special Election**
 
-**SIAM Student Chapter Kick-Off Event  Featuring: IACS Student Association**
+Join us for a special election meeting to elect a Secretary and Social Media Manager. 
 
-We host our inauguratory kick-off event where we introduce the student chapter's board in addition to our goals for the 2022 school year. 
