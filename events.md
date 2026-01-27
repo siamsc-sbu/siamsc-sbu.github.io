@@ -1,7 +1,7 @@
 ---
 title: Events 
 
-aside: true
+aside: False
 ---
 **<ins>Upcoming Events</ins>** 
 
@@ -16,10 +16,15 @@ Professor Yuefan Deng of the Applied Mathematics Department gives a talk present
 
 
 
+
+
+
 **SIAM Special Election**
+
+<img align = "center" src = "/assets/Spec_elec.jpg" width = "400" height = "400" />
 
 Join us for a special election meeting to elect a Secretary and Social Media Manager. 
 
-<img align = "left" src = "/assets/Spec_elec.jpg" width = "400" height = "400" />
+
 
 **<ins>Past Events</ins>**
