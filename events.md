@@ -9,7 +9,7 @@ aside: true
 
 Professor Yuefan Deng of the Applied Mathematics Department gives a talk presenting quick survey of modern computin, tracing its rapid evolution from foundational hardware logic to today's complex software systems and machine learning advances. It explores how computation drives discovery across biology, finance, industrial and applied mathematics, science, and defense, while emphasizing the core logic and principles behind 21st-century innovation.
 
-<img align = "left" src = "/assets/
+<img align = "left" src = "/assets/deng_talk.jpg" width = "300" height = "300" />
 
 
 **SIAM Special Election**
