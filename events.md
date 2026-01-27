@@ -12,7 +12,10 @@ Professor Yuefan Deng of the Applied Mathematics Department gives a talk present
 <img align = "left" src = "/assets/deng_talk.jpg" width = "300" height = "300" />
 
 
+
+
+
 **SIAM Special Election**
 
 Join us for a special election meeting to elect a Secretary and Social Media Manager. 
-
+<img align = "left" src = "/assets/Spec_elec.jpg" width = "300" height = "300" />
