@@ -7,7 +7,7 @@ feature_text: |
 image: /assets/logos/new_siam_logo.png
 ---
 
-<img align = "center" src= "/assets/Chosen Picture (1).jpg" width= "500" height = "500"/>
+<img align = "center" src= "/assets/Chosen Picture (1).jpg" width= "700" height = "700"/>
 
 Welcome to the SIAM Student Chapter at Stony Brook University! Our Chapter's goal is to unite members of the SBU student body with a common love for applied mathematics. 
 
