@@ -31,7 +31,7 @@ Join us for a special election meeting to elect a Secretary and Social Media Man
 
 **Really Hard Math Trivia** 
 
-<img align = "center" src = "/assets/Spec_elec.jpg" width = "400" height = "400" />
+<img align = "center" src = "/assets/hard_math.jpg" width = "400" height = "400" />
 
 
 We heard you, our last Math Trivia Event wasn't hard enough--- Join us for Really Hard Math Trivia, a battle of wits, proofs and pure will power as you compete against your peers to find out who knows the most math‼️
