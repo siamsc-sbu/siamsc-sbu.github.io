@@ -4,6 +4,6 @@ title: Join Us
 aside: true
 ---
 
-** Want to learn more? ** 
+Want to learn more? 
 
 <sub><sub> Join our [discord](https://discord.gg/c3faU73WSX):
