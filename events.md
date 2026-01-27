@@ -1,7 +1,7 @@
 ---
 title: Events 
 
-aside: False
+aside: True
 ---
 **<ins>Upcoming Events</ins>** 
 
