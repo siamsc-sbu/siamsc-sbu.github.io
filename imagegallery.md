@@ -13,7 +13,7 @@ title: Image Gallery
 
 &nbsp;
 
-<td>  <img align="center" src="/assets/event12.jpg" width="400" height="400" /> &nbsp;</td>
+<td>  <img align="center" src="/assets/Untitled design.jpg" width="400" height="400" /> &nbsp;</td>
 </tr></table>
 
 <table><tr>
