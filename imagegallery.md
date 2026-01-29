@@ -9,7 +9,7 @@ title: Image Gallery
 
 
 <table><tr>
-<td> <img align="center" src="/assets/IMG_5532.HEIC" width="400" height="320" /> &nbsp;</td>
+<td> <img align="center" src="/assets/Untitled design.png" width="400" height="320" /> &nbsp;</td>
 
 &nbsp;
 
