@@ -4,7 +4,7 @@ title: Image Gallery
 ---
 <link href="style.css" rel="stylesheet">
 
-**Robustness of Complex Networks in Biology and Medicine**
+**Applied Mathermatics and Statistics Undergraduate Research Workshop**
 
 
 
