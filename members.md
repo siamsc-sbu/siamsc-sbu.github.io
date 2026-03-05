@@ -5,7 +5,7 @@ aside: true
 ---
 
 **President: Spiros Manolas**  
-**Year: Junior**
+**Year: Junior**     
 **Major: Applied Mathematics and Statistics + Mathematics + Mechanical Engineering Minor**
 
 
@@ -17,7 +17,7 @@ aside: true
 
 
 **Vice President: Wendy Calderon**  
-**Year: Sophomore**
+**Year: Sophomore**  
 **Major: Applied Mathematics and Statistics + Mathematics**
 
  <sub><sup>I chose to join SIAM to connect more to the mathematics community on campus, I wanted to learn more about the different areas of math that people partake in and what I could be able to contribute. This led me to running for Vice President because I wanted others to come and learn more about our community and enjoy it as much as I did. I enjoy the difficulties of my major, when I am so stuck on a single problem that I've been working on for hours at a time and then finally something works and I'm able to complete it. I truly enjoy that experience and feel as though that always happens when I'm working a math problem.  Which is inevitably how I chose my major before coming to college I knew that math was my way to solve the problems in my community. I wish to use mathematical models and my problem solving skills to aid public policy and help my community. I love puzzling! Which ties into sitting hours on end trying to figure something out, but I've solved so many puzzles! My sister and I solved an 1000 piece puzzle when I was in high school. So far my favorite workshop/event we've done so far has been the Applied Math Research Workshop, I felt it was very informative and people showed a lot of interest in what we had to offer!<sub><sup>
@@ -28,7 +28,7 @@ aside: true
 
 
 **Treasurer: Nandini Goswami**  
-**Year: Sophomore**
+**Year: Sophomore**  
 **Major: Applied Mathematics and Statistics + Mathematics**
 
 
@@ -39,7 +39,7 @@ aside: true
 
 
 **Secretary: Trinity Woo**  
-**Year: Freshman**
+**Year: Freshman**  
 **Major: Applied Mathematics and Statistics**
 
 
@@ -59,7 +59,7 @@ I'm still very new to SIAM, but I'm looking forward to creating a lot of fen and
 
 
 **Social Media Manager: Jenny Sun**  
-**Year: Freshman**
+**Year: Freshman**  
 **Major: Applied Mathematics and Statistics**
 
 <sub><sup>I wanted to join SIAM to allow me to network with likeminded people that share the same interest in applied mathematics as me. I think it is a great resource to help you navigate a career path in AMS. I ended up choosing my major because of my initial interest in mathematics and wanting to apply mathematical concepts in real life scenarios. One of my goals after graduating is to get a masters degree and then move on to working in the field of data analytics. A fun fact about me is that I like to do my own gel x nails.<sub><sup>
@@ -67,7 +67,7 @@ I'm still very new to SIAM, but I'm looking forward to creating a lot of fen and
 <img align="center" src="/assets/jenny_headshot.jpeg" width="400" height="400" />
 
 **Event Committee: Katia Idrovo**  
-**Year: Senior**
+**Year: Senior**  
 **Major: Applied Mathematics and Statistics**
 
 <sub><sup>Hello! My name is Katia and I joined SIAM because I wanted to be more involved within our AMS community at Stony Brook! In my free time I like to sew!<sub><sup>
@@ -75,7 +75,7 @@ I'm still very new to SIAM, but I'm looking forward to creating a lot of fen and
 <img align="center" src="/assets/katia_headshot.jpg" width="400" height="400" />
 
 **Event Committee: Sofia Castillo**  
-**Year: Sophomore**
+**Year: Sophomore**  
 **Major: Geology**
 
 <sub><sup>I wanted to join SIAM to be around likeminded individuals with similar mindsets on math and math education. I grew to love math over the years and seeing all of the members come together with this combined interest is truly inspiring. As for my future, I plan on getting a PhD in Astrophysics with a concentration in star evolution. I think having interdisciplinary experience during undergrad is extremely valuable. I get to converse with people who operate differently from me and who encourage me to see different angles of the world. When it comes to research, having these skills early on will help me tackle future research problems from all sides. Outside of school, I love to do pottery as well as listen to music and hangout with my friends!<sub><sup>
@@ -84,7 +84,7 @@ I'm still very new to SIAM, but I'm looking forward to creating a lot of fen and
 
 
 **Event Committee: Edik Harutyunyan**  
-**Year: Sophomore**
+**Year: Sophomore**  
 **Major: Mathematics**
 
 <sub><sup>I joined SIAM to connect with students who share a passion for applied mathematics and to help create engaging events that make math more accessible and exciting. As a Mathematics major, I enjoy exploring how mathematical models can solve real-world problems. Serving as a member of the Event Committee has allowed me to contribute ideas, strengthen teamwork skills, and support our community. Outside academics, I enjoy playing chess, basketball, and analyzing them.<sub><sup>
@@ -92,7 +92,7 @@ I'm still very new to SIAM, but I'm looking forward to creating a lot of fen and
 <img align="center" src="/assets/edik_headshot.jpg" width="400" height="400" />
 
 **Technical Lead: Viviana Rescalvo Orea**  
-**Year: Sophomore**
+**Year: Sophomore**  
 **Major: Computer Science + Biology Minor**
 
 
