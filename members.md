@@ -53,7 +53,7 @@ I'm still very new to SIAM, but I'm looking forward to creating a lot of fen and
 
 
 
-<img align="center" src="/assets/viviana_headshot.jpg" width="400" height="400" />
+<img align="center" src="/assets/trinity_headshot.jpeg" width="400" height="400" />
 
 
 
@@ -64,7 +64,7 @@ I'm still very new to SIAM, but I'm looking forward to creating a lot of fen and
 
 <sub><sup>I wanted to join SIAM to allow me to network with likeminded people that share the same interest in applied mathematics as me. I think it is a great resource to help you navigate a career path in AMS. I ended up choosing my major because of my initial interest in mathematics and wanting to apply mathematical concepts in real life scenarios. One of my goals after graduating is to get a masters degree and then move on to working in the field of data analytics. A fun fact about me is that I like to do my own gel x nails.<sub><sup>
 
-<img align="center" src="/assets/larab_headshot.jpg" width="400" height="400" />
+<img align="center" src="/assets/jenny_headshot.jpeg" width="400" height="400" />
 
 **Event Committee: Katia Idrovo**  
 **Year: Senior**
