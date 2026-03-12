@@ -8,7 +8,7 @@ image: /assets/logos/new_siam_logo.png
 ---
 <style>
   .hero-section {
-    background-image: url('/assets/images/Chosen Picture (1).jpg');
+    background-image: src="/assets/Chosen Picture (1).jpg";
     background-size: cover;
     background-position: center;
     height: 60vh;
