@@ -8,11 +8,10 @@ image: /assets/logos/new_siam_logo.png
 ---
 <style>
   .hero-section {
-    /* Replace the path below with your actual image path */
-    background-image: url('/assets/images/campus-background.jpg');
+    background-image: url('/assets/images/Chosen Picture (1).jpg');
     background-size: cover;
     background-position: center;
-    height: 60vh; /* This makes it 60% of the screen height */
+    height: 60vh;
     display: flex;
     align-items: center;
     justify-content: center;
