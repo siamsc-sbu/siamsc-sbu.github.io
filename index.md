@@ -6,6 +6,43 @@ feature_text: |
   SIAM Student Chapter at Stony Brook University.
 image: /assets/logos/new_siam_logo.png
 ---
+<style>
+  .hero-section {
+    /* Replace the path below with your actual image path */
+    background-image: url('/assets/images/campus-background.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 60vh; /* This makes it 60% of the screen height */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+  }
+
+  .hero-overlay {
+    background: rgba(0, 0, 0, 0.3); /* Darkens image slightly so text pops */
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .hero-text {
+    max-width: 900px;
+    font-family: 'Fredoka', 'Verdana', sans-serif; /* Using the bubble font! */
+    font-size: 2.2rem;
+    font-weight: bold;
+    line-height: 1.4;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+</style>
+
+
+
+
 <div class = "pic--hero"> 
   <div class = "hero-overlay">
     <h1> Welcome to the SIAM Student Chapter at Stony Brook University! Our Chapter's goal is to unite members of the SBU student body with a common love for applied mathematics. 
