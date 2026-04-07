@@ -7,7 +7,7 @@ feature_text: |
 image: /assets/logos/new_siam_logo.png
 ---
 body {
-    background-image: src="/assets/Chosen Picture (1).jpg";
+    background-image: url("assets/Chosen Picture (1).jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed; 
