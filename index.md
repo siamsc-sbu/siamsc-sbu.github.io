@@ -6,12 +6,17 @@ feature_text: |
   SIAM Student Chapter at Stony Brook University.
 image: /assets/logos/new_siam_logo.png
 ---
-body {
-    background-image: url("assets/Chosen Picture (1).jpg");
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed; 
- }   
+<head>
+  <style>
+    body { 
+      background-image: url("assets/Chosen Picture (1).jpg"); 
+      background-size: cover; 
+      background-position: center; 
+      background-attachment: fixed; 
+    }
+  </style>
+</head>
+  
 
 
 
