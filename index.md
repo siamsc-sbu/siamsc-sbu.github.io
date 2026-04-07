@@ -6,38 +6,14 @@ feature_text: |
   SIAM Student Chapter at Stony Brook University.
 image: /assets/logos/new_siam_logo.png
 ---
-<style>
-  .hero-section {
+body {
     background-image: src="/assets/Chosen Picture (1).jpg";
     background-size: cover;
     background-position: center;
-    height: 60vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: white;
-  }
+    background-attachment: fixed; 
+ }   
 
-  .hero-overlay {
-    background: rgba(0, 0, 0, 0.3); /* Darkens image slightly so text pops */
-    width: 100%;
-    height: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 20px;
-    text-align: center;
-  }
 
-  .hero-text {
-    max-width: 900px;
-    font-family: 'Fredoka', 'Verdana', sans-serif; /* Using the bubble font! */
-    font-size: 2.2rem;
-    font-weight: bold;
-    line-height: 1.4;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-  }
-</style>
 
 
 
