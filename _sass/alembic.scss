@@ -9,3 +9,76 @@
   "flex",
   "theme"
 ;
+
+
+// ==========================================
+// FIX FIXED HEADER & HERO LAYOUT
+// ==========================================
+
+/* 1. Sticky Red Header */
+.header {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #b30000 !important; /* SIAM Red */
+  z-index: 9999 !important;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* 2. Header Text and Navigation Links Visibility */
+.header a, 
+.header .nav a, 
+.header .logo,
+.header h1 {
+  color: #ffffff !important;
+  text-decoration: none;
+}
+
+.header a:hover {
+  color: #f0f0f0 !important;
+}
+
+/* 3. Push page content down so it starts UNDER the fixed header */
+body {
+  padding-top: 100px !important; 
+}
+
+/* 4. Split-Background Hero Section */
+.hero-split {
+  min-height: calc(100vh - 100px);
+  background: 
+    linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)),
+    url("/assets/Chosen Picture (1).jpg") no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 60px 10%;
+  box-sizing: border-box;
+}
+
+.hero-box {
+  background-color: rgba(0, 0, 0, 0.65);
+  padding: 40px;
+  border-radius: 8px;
+  max-width: 900px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.hero-box h1 {
+  font-size: 2.2rem;
+  margin-bottom: 20px;
+  color: #ffffff;
+}
+
+.hero-box p {
+  font-size: 1.15rem;
+  line-height: 1.6;
+}
+
+.hero-box a {
+  color: #64b5f6;
+}
