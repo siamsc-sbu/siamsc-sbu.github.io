@@ -1,3 +1,33 @@
+<style>
+  /* 1. Force header to stick to the top with SIAM Red */
+  .siam-global-header,
+  .header {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    background-color: #b30000 !important; /* SIAM Red */
+    z-index: 9999 !important; /* Forces header above photo */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+  }
+
+  /* 2. Force header text and navigation links to be white */
+  .siam-global-header a,
+  .siam-global-header .nav a,
+  .siam-global-header .logo,
+  .header a,
+  .header .nav a,
+  .header .logo {
+    color: #ffffff !important;
+    text-decoration: none !important;
+  }
+
+  /* 3. Shift the main page body down so content isn't hidden under header */
+  body {
+    padding-top: 100px !important;
+  }
+</style>
+
 <header class="siam-global-header">
   <div class="container">
     {% if site.logo %}{% include site-logo.html %}{% endif %}
@@ -6,5 +36,4 @@
   </div>
 
   {% include site-feature.html %}
-
 </header>
