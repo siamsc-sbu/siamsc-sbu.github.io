@@ -19,16 +19,76 @@
     text-decoration: none !important;
   }
 
-  /* 3. Push body down so it doesn't hide behind header */
+  /* 3. Make sure nav is visible */
+  .siam-global-header .nav {
+    display: flex !important;
+    align-items: center !important;
+  }
+
+  .siam-global-header .list--nav {
+    display: flex !important;
+    list-style: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    gap: 24px !important;
+    align-items: center !important;
+  }
+
+  .siam-global-header .item--nav {
+    margin: 0 !important;
+  }
+
+  .siam-global-header .nav a {
+    font-weight: 500;
+    font-size: 1rem;
+    padding: 6px 0;
+    color: #ffffff !important;
+  }
+
+  .siam-global-header .nav a:hover {
+    color: #f0f0f0 !important;
+  }
+
+  .siam-global-header .item--current a {
+    border-bottom: 2px solid #ffffff;
+    padding-bottom: 4px;
+  }
+
+  /* 4. Hide the hamburger menu button on desktop */
+  .siam-global-header .button--nav {
+    display: none !important;
+  }
+
+  /* 5. Push body down so it doesn't hide behind header */
   body {
     padding-top: 80px !important;
     margin: 0 !important;
+  }
+
+  /* 6. Mobile responsive */
+  @media (max-width: 768px) {
+    .siam-global-header .list--nav {
+      gap: 12px !important;
+      flex-wrap: wrap;
+    }
+    
+    .siam-global-header .nav a {
+      font-size: 0.9rem;
+    }
+    
+    body {
+      padding-top: 70px !important;
+    }
   }
 </style>
 
 <header class="siam-global-header">
   <div class="container">
-    {% if site.logo %}{% include site-logo.html %}{% endif %}
-    {% include nav-header.html %}
+    <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+      {% if site.logo %}
+        {% include site-logo.html %}
+      {% endif %}
+      {% include nav-header.html %}
+    </div>
   </div>
 </header>
