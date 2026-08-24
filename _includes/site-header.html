@@ -1,112 +1,90 @@
 <style>
-  /* 1. Make header sticky and red */
   .siam-global-header {
     position: fixed !important;
     top: 0 !important;
     left: 0 !important;
     width: 100% !important;
-    background-color: #b30000 !important; /* SIAM Red */
+    background-color: #b30000 !important;
     z-index: 9999 !important;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
-    padding: 10px 0;
+    padding: 12px 0 !important;
   }
 
-  /* 2. Force links and text to be white */
-  .siam-global-header a,
-  .siam-global-header .nav a,
-  .siam-global-header .logo {
+  .siam-global-header .container {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    width: 90% !important;
+    max-width: 1200px !important;
+    margin: 0 auto !important;
+  }
+
+  .siam-global-header .logo a {
     color: #ffffff !important;
+    font-weight: 700 !important;
+    font-size: 1.2rem !important;
     text-decoration: none !important;
   }
 
-  /* 3. Make sure nav is visible */
-  .siam-global-header .nav {
+  .siam-global-header .nav-links {
     display: flex !important;
+    gap: 30px !important;
     align-items: center !important;
   }
 
-  .siam-global-header .list--nav {
-    display: flex !important;
-    list-style: none !important;
-    margin: 0 !important;
-    padding: 0 !important;
-    gap: 24px !important;
-    align-items: center !important;
-  }
-
-  .siam-global-header .item--nav {
-    margin: 0 !important;
-  }
-
-  .siam-global-header .nav a {
-    font-weight: 500;
-    font-size: 1rem;
-    padding: 6px 0;
+  .siam-global-header .nav-links a {
     color: #ffffff !important;
+    text-decoration: none !important;
+    font-weight: 500 !important;
+    font-size: 1rem !important;
+    padding: 6px 0 !important;
+    border-bottom: 2px solid transparent !important;
+    transition: border-color 0.2s ease !important;
   }
 
-  .siam-global-header .nav a:hover {
-    color: #f0f0f0 !important;
+  .siam-global-header .nav-links a:hover {
+    border-bottom-color: #ffffff !important;
   }
 
-  .siam-global-header .item--current a {
-    border-bottom: 2px solid #ffffff;
-    padding-bottom: 4px;
+  .siam-global-header .nav-links a.active {
+    border-bottom-color: #ffffff !important;
   }
 
-  /* 4. Hide the hamburger menu button on desktop */
+  /* Hide the hamburger menu button if it exists */
   .siam-global-header .button--nav {
     display: none !important;
   }
 
-  /* 5. Push body down so it doesn't hide behind header */
   body {
     padding-top: 80px !important;
-    margin: 0 !important;
   }
 
-  /* 6. Mobile responsive */
   @media (max-width: 768px) {
-    .siam-global-header .list--nav {
-      gap: 12px !important;
-      flex-wrap: wrap;
+    .siam-global-header .nav-links {
+      gap: 15px !important;
+      flex-wrap: wrap !important;
+      justify-content: flex-end !important;
     }
-    
-    .siam-global-header .nav a {
-      font-size: 0.9rem;
-    }
-    
-    body {
-      padding-top: 70px !important;
+    .siam-global-header .nav-links a {
+      font-size: 0.85rem !important;
     }
   }
-  <style>
-  /* TEMPORARY DEBUG - Add visible borders to see if nav exists */
-  .siam-global-header .nav {
-    border: 2px solid yellow !important;
-    background: rgba(255,255,0,0.3) !important;
-  }
-  
-  .siam-global-header .list--nav {
-    border: 2px solid lime !important;
-    background: rgba(0,255,0,0.3) !important;
-    display: flex !important;
-  }
-  
-  .siam-global-header .item--nav {
-    border: 2px solid cyan !important;
-    background: rgba(0,255,255,0.3) !important;
-  }
-</style>
 </style>
 
 <header class="siam-global-header">
   <div class="container">
-    <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-      {% if site.logo %}
-        {% include site-logo.html %}
-      {% endif %}
-      {% include nav-header.html %}
+    <!-- Logo -->
+    <div class="logo">
+      <a href="{{ '/' | relative_url }}">SIAM SBU</a>
     </div>
+
+    <!-- Navigation Links -->
+    <nav class="nav-links">
+      <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Home</a>
+      <a href="{{ '/about' | relative_url }}" {% if page.url contains '/about' %}class="active"{% endif %}>About</a>
+      <a href="{{ '/events' | relative_url }}" {% if page.url contains '/events' %}class="active"{% endif %}>Events</a>
+      <a href="{{ '/members' | relative_url }}" {% if page.url contains '/members' %}class="active"{% endif %}>Members</a>
+      <a href="{{ '/contact' | relative_url }}" {% if page.url contains '/contact' %}class="active"{% endif %}>Contact</a>
+    </nav>
   </div>
 </header>
