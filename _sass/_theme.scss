@@ -455,3 +455,71 @@ pre code {
     overflow-x: scroll;
   }
 }
+
+
+// ==========================================
+// SIAM CUSTOM STYLES (STICKY HEADER & HERO)
+// ==========================================
+
+/* Make the theme header stick to the top */
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #b30000; /* SIAM Red */
+  z-index: 1000;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Ensure navigation text/links inside header remain white */
+.header a, 
+.header h1, 
+.header p {
+  color: #ffffff !important;
+}
+
+/* Prevent body content from getting hidden under the fixed header */
+body {
+  padding-top: 100px; /* Adjust this value if your header is taller/shorter */
+}
+
+/* Custom Split-Background Hero Section */
+.hero-split {
+  min-height: calc(100vh - 100px);
+  background: 
+    linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("/assets/Chosen Picture (1).jpg") no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed; /* Keeps image fixed while scrolling */
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 60px 10%;
+  box-sizing: border-box;
+}
+
+.hero-box {
+  background-color: rgba(0, 0, 0, 0.65);
+  padding: 40px;
+  border-radius: 8px;
+  max-width: 900px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.hero-box h1 {
+  font-size: 2.2rem;
+  margin-bottom: 20px;
+  color: #ffffff;
+}
+
+.hero-box p {
+  font-size: 1.15rem;
+  line-height: 1.6;
+}
+
+.hero-box a {
+  color: #64b5f6;
+}
