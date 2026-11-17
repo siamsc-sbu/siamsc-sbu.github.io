@@ -157,3 +157,9 @@ h3 { margin: 0 0 0.7rem; font-size: 1.4rem; }
   font-family: "Comic Sans MS", "Comic Sans", cursive;
   font-weight: 700; 
 }
+
+.wordmark img {
+  display: block;
+  width: 140px;
+  height: auto;
+}
