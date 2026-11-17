@@ -153,3 +153,7 @@ h3 { margin: 0 0 0.7rem; font-size: 1.4rem; }
 @media (max-width: 42rem) {
   .activities { grid-template-columns: 1fr; }
 }
+.home-title {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font=weight: 700; 
+}
